@@ -59,4 +59,5 @@ Flask
 HTML, CSS, and JavaScript
 
 💬 Contact
-For questions or feedback, please open an Issue or connect on LinkedIn! 💙
+For questions or feedback, please open an Issue or [connect on LinkedIn](www.linkedin.com/in/mastanbi-shaik-dhakshinadi-2a569929a)! 💙
+
